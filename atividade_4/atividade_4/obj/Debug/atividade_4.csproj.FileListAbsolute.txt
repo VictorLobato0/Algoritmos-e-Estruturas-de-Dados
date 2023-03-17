@@ -1,0 +1,8 @@
+H:\Visual Studio 2022\Projects\atividade_4\atividade_4\bin\Debug\atividade_4.exe.config
+H:\Visual Studio 2022\Projects\atividade_4\atividade_4\bin\Debug\atividade_4.exe
+H:\Visual Studio 2022\Projects\atividade_4\atividade_4\bin\Debug\atividade_4.pdb
+H:\Visual Studio 2022\Projects\atividade_4\atividade_4\obj\Debug\atividade_4.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\atividade_4\atividade_4\obj\Debug\atividade_4.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio 2022\Projects\atividade_4\atividade_4\obj\Debug\atividade_4.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\atividade_4\atividade_4\obj\Debug\atividade_4.exe
+H:\Visual Studio 2022\Projects\atividade_4\atividade_4\obj\Debug\atividade_4.pdb
