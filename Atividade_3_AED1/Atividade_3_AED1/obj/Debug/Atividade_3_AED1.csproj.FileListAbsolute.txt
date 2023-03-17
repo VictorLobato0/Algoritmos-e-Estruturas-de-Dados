@@ -1,0 +1,8 @@
+H:\Visual Studio 2022\Projects\Atividade_3_AED1\Atividade_3_AED1\bin\Debug\Atividade_3_AED1.exe.config
+H:\Visual Studio 2022\Projects\Atividade_3_AED1\Atividade_3_AED1\bin\Debug\Atividade_3_AED1.exe
+H:\Visual Studio 2022\Projects\Atividade_3_AED1\Atividade_3_AED1\bin\Debug\Atividade_3_AED1.pdb
+H:\Visual Studio 2022\Projects\Atividade_3_AED1\Atividade_3_AED1\obj\Debug\Atividade_3_AED1.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\Atividade_3_AED1\Atividade_3_AED1\obj\Debug\Atividade_3_AED1.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio 2022\Projects\Atividade_3_AED1\Atividade_3_AED1\obj\Debug\Atividade_3_AED1.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\Atividade_3_AED1\Atividade_3_AED1\obj\Debug\Atividade_3_AED1.exe
+H:\Visual Studio 2022\Projects\Atividade_3_AED1\Atividade_3_AED1\obj\Debug\Atividade_3_AED1.pdb
