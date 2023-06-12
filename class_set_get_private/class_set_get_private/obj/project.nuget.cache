@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fSwO+4xZ64skIkQQgi/eqYmST3EroiHUj6HaVHD3sN9y7uNo3oY55+KNvYBUunAqMhIzBPd3q8l9j5mw35aUQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\victo\\Downloads\\projetos git\\class_set_get_private\\class_set_get_private\\class_set_get_private.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

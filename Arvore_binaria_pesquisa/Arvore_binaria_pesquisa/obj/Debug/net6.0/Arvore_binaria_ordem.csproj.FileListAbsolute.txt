@@ -1,0 +1,15 @@
+C:\Users\victo\Downloads\projetos git\Arvore_binaria_ordem\Arvore_binaria_ordem\bin\Debug\net6.0\Arvore_binaria_ordem.exe
+C:\Users\victo\Downloads\projetos git\Arvore_binaria_ordem\Arvore_binaria_ordem\bin\Debug\net6.0\Arvore_binaria_ordem.deps.json
+C:\Users\victo\Downloads\projetos git\Arvore_binaria_ordem\Arvore_binaria_ordem\bin\Debug\net6.0\Arvore_binaria_ordem.runtimeconfig.json
+C:\Users\victo\Downloads\projetos git\Arvore_binaria_ordem\Arvore_binaria_ordem\bin\Debug\net6.0\Arvore_binaria_ordem.dll
+C:\Users\victo\Downloads\projetos git\Arvore_binaria_ordem\Arvore_binaria_ordem\bin\Debug\net6.0\Arvore_binaria_ordem.pdb
+C:\Users\victo\Downloads\projetos git\Arvore_binaria_ordem\Arvore_binaria_ordem\obj\Debug\net6.0\Arvore_binaria_ordem.csproj.AssemblyReference.cache
+C:\Users\victo\Downloads\projetos git\Arvore_binaria_ordem\Arvore_binaria_ordem\obj\Debug\net6.0\Arvore_binaria_ordem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Downloads\projetos git\Arvore_binaria_ordem\Arvore_binaria_ordem\obj\Debug\net6.0\Arvore_binaria_ordem.AssemblyInfoInputs.cache
+C:\Users\victo\Downloads\projetos git\Arvore_binaria_ordem\Arvore_binaria_ordem\obj\Debug\net6.0\Arvore_binaria_ordem.AssemblyInfo.cs
+C:\Users\victo\Downloads\projetos git\Arvore_binaria_ordem\Arvore_binaria_ordem\obj\Debug\net6.0\Arvore_binaria_ordem.csproj.CoreCompileInputs.cache
+C:\Users\victo\Downloads\projetos git\Arvore_binaria_ordem\Arvore_binaria_ordem\obj\Debug\net6.0\Arvore_binaria_ordem.dll
+C:\Users\victo\Downloads\projetos git\Arvore_binaria_ordem\Arvore_binaria_ordem\obj\Debug\net6.0\refint\Arvore_binaria_ordem.dll
+C:\Users\victo\Downloads\projetos git\Arvore_binaria_ordem\Arvore_binaria_ordem\obj\Debug\net6.0\Arvore_binaria_ordem.pdb
+C:\Users\victo\Downloads\projetos git\Arvore_binaria_ordem\Arvore_binaria_ordem\obj\Debug\net6.0\Arvore_binaria_ordem.genruntimeconfig.cache
+C:\Users\victo\Downloads\projetos git\Arvore_binaria_ordem\Arvore_binaria_ordem\obj\Debug\net6.0\ref\Arvore_binaria_ordem.dll

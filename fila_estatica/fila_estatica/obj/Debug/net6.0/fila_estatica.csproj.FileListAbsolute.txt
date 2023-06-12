@@ -1,0 +1,15 @@
+C:\Users\victo\Downloads\projetos git\fila_estatica\fila_estatica\bin\Debug\net6.0\fila_estatica.exe
+C:\Users\victo\Downloads\projetos git\fila_estatica\fila_estatica\bin\Debug\net6.0\fila_estatica.deps.json
+C:\Users\victo\Downloads\projetos git\fila_estatica\fila_estatica\bin\Debug\net6.0\fila_estatica.runtimeconfig.json
+C:\Users\victo\Downloads\projetos git\fila_estatica\fila_estatica\bin\Debug\net6.0\fila_estatica.dll
+C:\Users\victo\Downloads\projetos git\fila_estatica\fila_estatica\bin\Debug\net6.0\fila_estatica.pdb
+C:\Users\victo\Downloads\projetos git\fila_estatica\fila_estatica\obj\Debug\net6.0\fila_estatica.csproj.AssemblyReference.cache
+C:\Users\victo\Downloads\projetos git\fila_estatica\fila_estatica\obj\Debug\net6.0\fila_estatica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Downloads\projetos git\fila_estatica\fila_estatica\obj\Debug\net6.0\fila_estatica.AssemblyInfoInputs.cache
+C:\Users\victo\Downloads\projetos git\fila_estatica\fila_estatica\obj\Debug\net6.0\fila_estatica.AssemblyInfo.cs
+C:\Users\victo\Downloads\projetos git\fila_estatica\fila_estatica\obj\Debug\net6.0\fila_estatica.csproj.CoreCompileInputs.cache
+C:\Users\victo\Downloads\projetos git\fila_estatica\fila_estatica\obj\Debug\net6.0\fila_estatica.dll
+C:\Users\victo\Downloads\projetos git\fila_estatica\fila_estatica\obj\Debug\net6.0\refint\fila_estatica.dll
+C:\Users\victo\Downloads\projetos git\fila_estatica\fila_estatica\obj\Debug\net6.0\fila_estatica.pdb
+C:\Users\victo\Downloads\projetos git\fila_estatica\fila_estatica\obj\Debug\net6.0\fila_estatica.genruntimeconfig.cache
+C:\Users\victo\Downloads\projetos git\fila_estatica\fila_estatica\obj\Debug\net6.0\ref\fila_estatica.dll

@@ -1,0 +1,15 @@
+C:\Users\victo\Downloads\projetos git\pilha_estatica\pilha_estatica\bin\Debug\net6.0\pilha_estatica.exe
+C:\Users\victo\Downloads\projetos git\pilha_estatica\pilha_estatica\bin\Debug\net6.0\pilha_estatica.deps.json
+C:\Users\victo\Downloads\projetos git\pilha_estatica\pilha_estatica\bin\Debug\net6.0\pilha_estatica.runtimeconfig.json
+C:\Users\victo\Downloads\projetos git\pilha_estatica\pilha_estatica\bin\Debug\net6.0\pilha_estatica.dll
+C:\Users\victo\Downloads\projetos git\pilha_estatica\pilha_estatica\bin\Debug\net6.0\pilha_estatica.pdb
+C:\Users\victo\Downloads\projetos git\pilha_estatica\pilha_estatica\obj\Debug\net6.0\pilha_estatica.csproj.AssemblyReference.cache
+C:\Users\victo\Downloads\projetos git\pilha_estatica\pilha_estatica\obj\Debug\net6.0\pilha_estatica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Downloads\projetos git\pilha_estatica\pilha_estatica\obj\Debug\net6.0\pilha_estatica.AssemblyInfoInputs.cache
+C:\Users\victo\Downloads\projetos git\pilha_estatica\pilha_estatica\obj\Debug\net6.0\pilha_estatica.AssemblyInfo.cs
+C:\Users\victo\Downloads\projetos git\pilha_estatica\pilha_estatica\obj\Debug\net6.0\pilha_estatica.csproj.CoreCompileInputs.cache
+C:\Users\victo\Downloads\projetos git\pilha_estatica\pilha_estatica\obj\Debug\net6.0\pilha_estatica.dll
+C:\Users\victo\Downloads\projetos git\pilha_estatica\pilha_estatica\obj\Debug\net6.0\refint\pilha_estatica.dll
+C:\Users\victo\Downloads\projetos git\pilha_estatica\pilha_estatica\obj\Debug\net6.0\pilha_estatica.pdb
+C:\Users\victo\Downloads\projetos git\pilha_estatica\pilha_estatica\obj\Debug\net6.0\pilha_estatica.genruntimeconfig.cache
+C:\Users\victo\Downloads\projetos git\pilha_estatica\pilha_estatica\obj\Debug\net6.0\ref\pilha_estatica.dll

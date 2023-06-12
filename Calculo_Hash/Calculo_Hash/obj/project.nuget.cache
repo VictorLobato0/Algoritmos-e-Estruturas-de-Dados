@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vbG+GOjQkYmp5p6PlUwV02D+G+JNkrLqhdQOV80nDmqnKeg1wqfLZ0/D3w4hwlzsBKaxtGwgUfn1Hoz1Qztweg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\victo\\Downloads\\projetos git\\Calculo_Hash\\Calculo_Hash\\Calculo_Hash.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

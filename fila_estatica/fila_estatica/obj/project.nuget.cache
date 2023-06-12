@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BjSK5BxuJTaBOaVdTmqxWLZxUnjKll+RTHLDgIxEtFR5jbf61/xg6eTHMaT6C2a5m4XIOyGW7rOa4NyoSzDRHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\victo\\Downloads\\projetos git\\fila_estatica\\fila_estatica\\fila_estatica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

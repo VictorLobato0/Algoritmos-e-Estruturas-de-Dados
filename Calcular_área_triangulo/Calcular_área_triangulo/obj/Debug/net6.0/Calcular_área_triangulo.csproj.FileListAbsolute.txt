@@ -1,0 +1,15 @@
+C:\Users\victo\Downloads\projetos git\Calcular_área_triangulo\Calcular_área_triangulo\obj\Debug\net6.0\Calcular_área_triangulo.csproj.AssemblyReference.cache
+C:\Users\victo\Downloads\projetos git\Calcular_área_triangulo\Calcular_área_triangulo\obj\Debug\net6.0\Calcular_área_triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Downloads\projetos git\Calcular_área_triangulo\Calcular_área_triangulo\obj\Debug\net6.0\Calcular_área_triangulo.AssemblyInfoInputs.cache
+C:\Users\victo\Downloads\projetos git\Calcular_área_triangulo\Calcular_área_triangulo\obj\Debug\net6.0\Calcular_área_triangulo.AssemblyInfo.cs
+C:\Users\victo\Downloads\projetos git\Calcular_área_triangulo\Calcular_área_triangulo\obj\Debug\net6.0\Calcular_área_triangulo.csproj.CoreCompileInputs.cache
+C:\Users\victo\Downloads\projetos git\Calcular_área_triangulo\Calcular_área_triangulo\bin\Debug\net6.0\Calcular_área_triangulo.exe
+C:\Users\victo\Downloads\projetos git\Calcular_área_triangulo\Calcular_área_triangulo\bin\Debug\net6.0\Calcular_área_triangulo.deps.json
+C:\Users\victo\Downloads\projetos git\Calcular_área_triangulo\Calcular_área_triangulo\bin\Debug\net6.0\Calcular_área_triangulo.runtimeconfig.json
+C:\Users\victo\Downloads\projetos git\Calcular_área_triangulo\Calcular_área_triangulo\bin\Debug\net6.0\Calcular_área_triangulo.dll
+C:\Users\victo\Downloads\projetos git\Calcular_área_triangulo\Calcular_área_triangulo\bin\Debug\net6.0\Calcular_área_triangulo.pdb
+C:\Users\victo\Downloads\projetos git\Calcular_área_triangulo\Calcular_área_triangulo\obj\Debug\net6.0\Calcular_área_triangulo.dll
+C:\Users\victo\Downloads\projetos git\Calcular_área_triangulo\Calcular_área_triangulo\obj\Debug\net6.0\refint\Calcular_área_triangulo.dll
+C:\Users\victo\Downloads\projetos git\Calcular_área_triangulo\Calcular_área_triangulo\obj\Debug\net6.0\Calcular_área_triangulo.pdb
+C:\Users\victo\Downloads\projetos git\Calcular_área_triangulo\Calcular_área_triangulo\obj\Debug\net6.0\Calcular_área_triangulo.genruntimeconfig.cache
+C:\Users\victo\Downloads\projetos git\Calcular_área_triangulo\Calcular_área_triangulo\obj\Debug\net6.0\ref\Calcular_área_triangulo.dll

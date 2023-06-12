@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xA1upUhRcGROom1NEbXiPAAwWi0DPS66jXWOxOlE0uahUegskz5fFQKFC42aP364Ebirlp8sC56Y5z+HRcPAPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\victo\\Downloads\\projetos git\\Calcular_triangulos_classe\\Calcular_triangulos_classe\\Calcular_triangulos_classe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

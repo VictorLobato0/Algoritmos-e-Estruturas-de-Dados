@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Arvore_binaria_ordem/1.0.0": {
+        "runtime": {
+          "Arvore_binaria_ordem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arvore_binaria_ordem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
